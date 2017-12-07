@@ -14,8 +14,10 @@ public class Student {
     public static int percent() {
         int per = (sum(3,3,3,3,33)/100);
         System.out.println("Percent"+per);
+        System.out.println("Hello Github");
         return  per;
     }
+    
     public static void grate() {
         switch (percent()) {
             case 1: System.out.println("Grade A");
