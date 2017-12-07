@@ -9,3 +9,5 @@ Java Script
 Type Script
 .Net
 VB
+Scala
+Gradle
